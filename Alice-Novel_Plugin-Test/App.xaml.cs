@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Alice-Novel_Plugin-Test
+namespace PluginTest
 {
     /// <summary>
     /// Interaction logic for App.xaml
